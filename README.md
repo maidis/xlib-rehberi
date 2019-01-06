@@ -1,4 +1,4 @@
-[comment]: <> (--- title: "Xlib ve İlgili Diğer Teknolojilere Giriş" author: [Anıl Özbek] date: "2019-01-06" keywords: [xlib, x, xorg, linux] ...)
+<!-- [comment]: <> (--- title: "Xlib ve İlgili Diğer Teknolojilere Giriş" author: [Anıl Özbek] date: "2019-01-06" keywords: [xlib, x, xorg, linux] ...)-->
 
 # Xlib ve İlgili Diğer Teknolojilere Giriş
 
