@@ -37,3 +37,6 @@ Aşağıdaki kaynaklar uzun vadede X ile ilgili okuma listemde olan kaynaklar. B
 - [xlines](https://github.com/spartrekus/xlines)
 - [A port of the X11 application to Mac OS X as a screensaver](https://github.com/yuzawa-san/ico-saver)
 - [xlib2metal](https://github.com/npyl/xlib2metal)
+- [SDL x11](https://github.com/SDL-mirror/SDL/tree/master/src/video/x11) - [SDL Haiku](https://github.com/SDL-mirror/SDL/tree/master/src/video/haiku)
+- [Godot Engine x11](https://github.com/godotengine/godot/tree/master/platform/x11) - [Godot Engine Haiku](https://github.com/godotengine/godot/tree/master/platform/haiku)
+- [Allegro 4.4 X](https://github.com/liballeg/allegro5/tree/4.4/src/x) - [Allegro 4.4 Beos](https://github.com/liballeg/allegro5/tree/4.4/src/beos) - [allegro-4.4.2.patchset](https://github.com/haikuports/haikuports/blob/f38aa621d9be75ec0ca63e4805f9155ac759b82b/media-libs/allegro/patches/allegro-4.4.2.patchset)
