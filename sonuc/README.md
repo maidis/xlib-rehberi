@@ -16,7 +16,7 @@ Aşağıdaki kaynaklar uzun vadede X ile ilgili okuma listemde olan kaynaklar. B
 - [Basic Graphics Programming With The Xlib Library](https://www.student.cs.uwaterloo.ca/~cs349/f15/resources/X/xTutorialPart1.html)
 - [How to create semi transparent white window in XLib](https://stackoverflow.com/questions/39906128/how-to-create-semi-transparent-white-window-in-xlib)
 - [Xlib - Wikipedia](https://en.wikipedia.org/wiki/Xlib)
-- [Xlib - C Language X Interface](ftp://www.x.org/pub/current/doc/libX11/libX11/libX11.html)
+- [Xlib - C Language X Interface](https://www.x.org/releases/X11R7.6/doc/libX11/specs/libX11/libX11.html)
 - [Xlib Programming in C and Linux Tutorial](https://www.youtube.com/watch?v=NWYwDXN7b_s&list=PLypxmOPCOkHV4cwikC5_7Z981_EBfErS1)
 - [Moving a window programmatically with C and Xlib, the right way](https://www.youtube.com/watch?v=NVPIqDAY--w)
 - [X uygulama tanıtımları](https://www.youtube.com/user/livibetter/playlists)
