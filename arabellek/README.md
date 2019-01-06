@@ -84,4 +84,4 @@ Sonraki dört değer, kaynak görüntünün yanı sıra hedef görüntüdeki ofs
 
 Bunu derleyip çalıştırırsanız beyaz bir arka planda siyah bir ızgara görürsünüz.
 
-[<- Bölüm 4 - Daha İyi Kapatma](../daha-iyi-kapatma/README.md) [Bölüm 6 - Değişen pencere boyutuna uyum ->](../degisken-pencere-boyutuna-uyum/README.md)
+[<- Bölüm 4 - Daha İyi Kapatma](../daha-iyi-kapatma/README.md) [Bölüm 6 - Değişen pencere boyutuna uyum ->](../degisen-pencere-boyutuna-uyum/README.md)
