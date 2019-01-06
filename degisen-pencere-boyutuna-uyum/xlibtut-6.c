@@ -31,7 +31,8 @@ Status toggleMaximize(Display* display, Window window)
     Atom maxH  =  XInternAtom(display, "_NET_WM_STATE_MAXIMIZED_HORZ", False);
     Atom maxV  =  XInternAtom(display, "_NET_WM_STATE_MAXIMIZED_VERT", False);
 
-    if(wmState == None) return 0;
+    if(wmState == None)
+        return 0;
 
     ev.type = ClientMessage;
     ev.format = 32;
@@ -157,7 +158,7 @@ int main(int argc, char** args)
         if(sizeChange)
         {
             sizeChange = 0;
-            XDestroyImage(xWindowBuffer); // Ayırdığımızı belleği serbest bırakır;
+            XDestroyImage(xWindowBuffer); // Ayırdığımız belleği serbest bırakır;
             windowBufferSize = width * height * pixelBytes;
             mem  = (char*)malloc(windowBufferSize);
 
